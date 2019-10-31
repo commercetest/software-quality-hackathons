@@ -8,4 +8,13 @@ The software is likely to already exist and have active users. There will be at 
 
 ## Objectives
 Ideally the hackathon will include some immediate measures of progress and improvements; in practice some of the measurements will be of a longer term nature, such as improvements in the crash rate once a new version of the software has been released and is being used in the field.
- 
+
+
+## Tips of what worked well at other hackathons
+- Combining mixed teams
+- having several iterations during the overall hackathon
+- having something to create 
+- Motivation for participants
+
+## Less well
+Creathon - didn't have anything material to create, more a think great thoughts, and wander around.
